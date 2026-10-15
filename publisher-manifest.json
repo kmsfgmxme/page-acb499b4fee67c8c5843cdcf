@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "ede53f2639d4a716364c3af7",
+  "owner": "kmsfgmxme",
+  "repo": "page-acb499b4fee67c8c5843cdcf",
+  "title": "clash节点",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "acb499b4fee67c8c5843cdcf",
+      "a": "clash节点",
+      "b": "",
+      "entity": "clash节点",
+      "brand": "clash节点",
+      "separator": "",
+      "path": "index.html",
+      "hash": "7f9c5927b2216062576a6845a539a6434cf1da08197fad53a82e40d1a4c35214",
+      "content": {
+        "keyword1": "clash节点",
+        "keyword2": "",
+        "primary_entity": "clash节点",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "clash节点提供高质量VPN加速器服务，多种订阅计划可选，助力机场订阅与客户端下载。",
+          "AI_DESCRIPTION": "clash节点提供高质量VPN加速器服务，多种订阅计划可选，助力机场订阅与客户端下载。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        body { font-family: system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif; margin:0; padding:0; background-color: #0a2540; color: #f0f0f0; line-height: 1.6; }\n        main { max-width: 800px; margin: 0 auto; padding: 20px; }\n        h1 { color: #00ccff; font-size: 2.8rem; text-align: center; margin-bottom: 0.5rem; }\n        h2 { color: #00ddaa; font-size: 1.9rem; margin-top: 2.5rem; border-bottom: 2px solid #00ccff; padding-bottom: 0.5rem; }\n        h3 { color: #00ffcc; font-size: 1.5rem; margin-top: 1.5rem; }\n        .plan { background-color: #112244; border: 1px solid #00ccff; padding: 1.5rem; margin: 1.5rem 0; border-radius: 8px; }\n        .featured { border-color: #ff8800; background-color: #1a3344; }\n        ul { padding-left: 1.5rem; }\n        li { margin-bottom: 0.5rem; }\n        a { color: #00ccff; text-decoration: none; }\n        a:hover { text-decoration: underline; }\n        details { margin-bottom: 1.2rem; border: 1px solid #00ccff; border-radius: 6px; }\n        summary { font-weight: bold; cursor: pointer; padding: 0.8rem; background-color: #112244; }\n        .download-btn { background-color: #00ccff; color: #0a2540; padding: 1rem 2rem; border-radius: 4px; font-weight: bold; display: inline-block; margin: 1rem 0; }\n        footer { text-align: center; margin-top: 3rem; padding: 1.5rem; background-color: #001122; }\n        @media (max-width: 600px) {\n            h1 { font-size: 2.2rem; }\n        }\n    </style>\n\n\n    <main>\n        <h1>clash节点</h1>\n        <p>专业VPN加速器 | 机场订阅 客户端下载</p>\n        <h2>品牌简介</h2>\n        <p>clash节点是专注于提供高质量Clash配置的高速VPN节点服务商，覆盖全球线路，支持多种订阅计划。无论个人用户还是企业团队，我们均能满足您的网络加速需求。</p>\n        <h2>使用场景</h2>\n        <h3>流媒体解锁</h3>\n        <p>支持Netflix、Disney+、YouTube等主流平台原生解锁，畅享高清无广告内容。</p>\n        <h3>游戏加速</h3>\n        <p>IPLC专线优化降低延迟，提升在线游戏体验。</p>\n        <h3>远程办公与科学上网</h3>\n        <p>稳定高速线路助力在家办公或出差使用，突破地域限制。</p>\n        <h2>操作说明</h2>\n        <ol>\n            <li>访问官网下载官方Clash客户端（推荐最新稳定版）。</li>\n            <li>订阅成功后获取专属订阅链接。</li>\n            <li>在Clash客户端中添加订阅链接并导入。</li>\n            <li>选择节点连接即可享受加速服务。</li>\n        </ol>\n        <p>支持Windows、macOS、Android、iOS等多平台，具体以所选计划为准。</p>\n        <h2>订阅计划</h2>\n        <div class=\"plan\">\n            <h3>基础版</h3>\n            <p>¥15/月 | 按年付仅需 ¥150/年</p>\n            <ul>\n                <li>每月 100GB 极速流量</li>\n                <li>支持 3 台设备同时在线</li>\n                <li>解锁基础流媒体</li>\n                <li>普通线路节点池</li>\n            </ul>\n        </div>\n        <div class=\"plan featured\">\n            <h3>旗舰版</h3>\n            <p>¥35/月 | 按年付仅需 ¥350/年</p>\n            <ul>\n                <li>每月 300GB 极速流量</li>\n                <li>支持 5 台设备同时在线</li>\n                <li>全节点原生流媒体解锁</li>\n                <li>IPLC 专线游戏加速优化</li>\n                <li>7x24 优先工单支持</li>\n            </ul>\n        </div>\n        <div class=\"plan\">\n            <h3>团队版</h3>\n            <p>¥85/月 | 按年付仅需 ¥850/年</p>\n            <ul>\n                <li>每月 1000GB 极速流量</li>\n                <li>支持 20 台设备同时在线</li>\n                <li>VIP 专属高带宽节点</li>\n                <li>支持企业定制路由</li>\n                <li>专属客户经理服务</li>\n            </ul>\n        </div>\n        <div id=\"download\">\n            <h3>官方客户端下载</h3>\n            <p>立即下载Clash客户端</p>\n            <a href=\"#\" class=\"download-btn\">下载Clash客户端</a>\n        </div>\n        <h2>常见问题</h2>\n        <details>\n            <summary>什么是clash节点？</summary>\n            <p>clash节点是专业的VPN节点加速服务，提供基于Clash协议的高速节点配置，帮助用户突破网络限制，实现全球访问加速。</p>\n        </details>\n        <details>\n            <summary>如何选择订阅计划？</summary>\n            <p>根据流量需求和使用场景选择：基础版适合轻度使用，旗舰版支持流媒体解锁，团队版适合企业级高并发需求。</p>\n        </details>\n        <details>\n            <summary>如何下载客户端？</summary>\n            <p>请访问官网下载官方Clash客户端，推荐使用最新版本以获得最佳兼容性和性能。</p>\n        </details>\n        <details>\n            <summary>如何导入节点？</summary>\n            <p>在Clash客户端中添加订阅链接，粘贴获取的URL后导入即可使用。</p>\n        </details>\n        <details>\n            <summary>支持哪些设备？</summary>\n            <p>支持Windows、macOS、Android、iOS等主流平台，同时在线设备数量以所选计划为准。</p>\n        </details>\n        <details>\n            <summary>流量超出后怎么办？</summary>\n            <p>每月固定流量，超出部分可续费或升级至更高阶计划。</p>\n        </details>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n    <footer>\n        <p>官方下载：<a href=\"#\">立即下载客户端</a></p>\n        <p>友情链接：<a href=\"#\">关于我们</a> | <a href=\"#\">联系支持</a> | <a href=\"#\">隐私政策</a></p>\n        <p>© 2024 clash节点 版权所有</p>\n    </footer>\n\n",
+          "hash": "75661344d8c157d63ce9ecd9d6caa9dee313eb910afb156873615bd57fa793ff",
+          "seo": {
+            "title": "clash节点 - VPN加速器 | 机场订阅 客户端下载",
+            "keywords": "clash节点,vpn加速器,机场订阅,客户端下载,vpn梯子,clash配置,网络加速",
+            "description": "clash节点提供高质量VPN加速器服务，多种订阅计划可选，助力机场订阅与客户端下载。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "uoaygmc.cn",
+    "host": "p-1af2800591.uoaygmc.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "a8a0aa9e4f9a126d2f6e01c0ad6261f28641bfd0c987c17ba0425a63a604600a",
+    "sitemap.xml": "7076588e82e4240d103df8a5874acea6ca66a16834b7045a332912fd91952cfa",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d7979721cef286bbe0ca25456a32f13f018d3a842b5b26cc74a080f97d3db1a7",
+    "robots.txt": "b80fb7be2758259d36daa604240fd46ac4cb9d5526042aa2172b8efb2b957eff",
+    "eaa27f14ab1ece5551f4245176af7af8.txt": "90a522f35a8663ca79dc8a34a9068e19832906b003e83ce53817ab70e2b9243a"
+  },
+  "revision": "7080e4798ed6fb4f6914b6cc67ee3300dde1cb49b4b4fdf13a34fcc02b97c73f"
+}
